@@ -6,4 +6,4 @@ This example shows how to leverage [Okteto](https://github.com/okteto/okteto) to
 - A Node.js API using [Express](https://expressjs.com).
 - A MySQL database.
 
-HELLO WORLD
+HELLO WORLD2
